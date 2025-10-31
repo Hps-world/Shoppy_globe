@@ -11,7 +11,7 @@ const NotFound = lazy(() => import("./pages/NotFound"));
 
 const router = createBrowserRouter([
   {
-    path: "/",
+    path: "/Shoppy_globe/",
     element: <App />,
     children: [
       { index: true, element: <Home /> },
