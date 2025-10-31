@@ -1,1 +1,0 @@
-import{i as s,j as o,L as e}from"./index-C4BRfh8y.js";function a(){const n=s();return o.jsx("div",{className:"notfound-page",children:o.jsxs("div",{className:"notfound-card",children:[o.jsx("h1",{children:"404"}),o.jsxs("p",{children:["Page not found: ",o.jsx("code",{children:n.pathname})]}),o.jsx(e,{to:"/",children:"Go to Home"})]})})}export{a as default};
